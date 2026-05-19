@@ -2,7 +2,7 @@
 
 The landing page for **ANTS** — an open peer-to-peer protocol for distributed artificial intelligence.
 
-Served at **<https://ants.community>**. Deployed via Cloudflare Pages, connected to this repository (any push to `main` triggers a redeploy).
+Served at **<https://ants.community>**. Every push to `main` deploys to Cloudflare Pages via GitHub Actions (`.github/workflows/deploy.yml`).
 
 ## Files
 
